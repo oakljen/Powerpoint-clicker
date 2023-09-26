@@ -67,3 +67,4 @@ Contributions to Powerpoint Clicker are welcome! If you have ideas for improveme
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This uses paulpjoby Simple HTTP Server and can be found here https://github.com/paulpjoby/Simple-HTTP-Server-Using-Visual-C-Sharp
